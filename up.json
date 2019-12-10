@@ -1,0 +1,5 @@
+{
+    "name": "stella-apex-app",
+    "profile": "StellaCo",
+    "regions": ["us-west-2"]
+  }
